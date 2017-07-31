@@ -63,7 +63,7 @@
     data () {
       return {
         sideNav: false,
-        dialog: true
+        dialog: false
       }
     }
   }
